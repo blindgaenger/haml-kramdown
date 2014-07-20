@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_runtime_dependency 'haml'
+  s.add_runtime_dependency 'kramdown'
 end
